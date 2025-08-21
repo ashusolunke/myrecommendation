@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+surprise
+streamlit
+requests
+fuzzywuzzy
+python-levenshtein
